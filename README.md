@@ -2,7 +2,7 @@
 - Spring 기반 개발 환경 구성
 - 기본 REST API 구현
 - API 문서화
-- HATEOAS 구현
+- HATEOAS(헤이티오스) 구현
 
 ## 1. Spring 기반 개발 환경 구성
 - Open JDK 17
